@@ -1,0 +1,6 @@
+[submodule "Crowd-Sense-Backend"]
+	path = Crowd-Sense-Backend
+	url = https://github.com/Haroune07/Crowd-Sense-Backend
+[submodule "Crowd-Sense-Frontend"]
+	path = Crowd-Sense-Frontend
+	url = https://github.com/Haroune07/Crowd-Sense-Frontend
